@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, My name is Hicham.
+💼 I’m SEO/Data specialist with 10+ years of experience.
+👀 Curious about internet research & online investigation.
+🌱 Now I'm learning Python.
+📫 How to reach me: ...  
