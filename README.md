@@ -13,10 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌱 Now I'm learning Python.
+
 -->
 
 👋 Hi, My name is Hicham.
-💼 I’m SEO/Data specialist with 10+ years of experience.
-👀 Curious about internet research & online investigation.
-🌱 Now I'm learning Python.
-📫 How to reach me: ...  
+
+💼 I’m SEO/Data specialist with 15 years of experience in the web industry
+
+👀 Curious about Startups, productivity, cinema, personal development, history, geopolitics, sciences, business, tech, meditation, nutrition, health, operas, jazz
+
+🔭 Canadian-Moroccan-French-(multiple citizenships) and I've lived in different countries.
+
+🛠️ Skills
+
+Python, SQL, HTML, CSS
+Google Search Console, Bing Console, Google Analytics, Google Tag Manager Locker Studio
+Screaming Frog, Ahrefs, SEMRush
+A/B testing, Backlink analysis, Content marketing, Keyword research, Email marketing
